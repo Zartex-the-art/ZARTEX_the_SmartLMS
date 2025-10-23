@@ -1,0 +1,5 @@
+{
+  "name": "SmartLMS: AI Learning Path Generator",
+  "description": "An AI-powered placement readiness platform that generates personalized learning paths from job descriptions. Admins can upload job descriptions, and the system uses AI to create and assign structured learning paths to students, who can then track their progress through a dedicated dashboard.",
+  "requestFramePermissions": []
+}
